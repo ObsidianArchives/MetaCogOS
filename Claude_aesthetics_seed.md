@@ -2359,9 +2359,10 @@ HermesCat@ΩMEGA:~$ ▊
 │                                                                           │
 └───────────────────────────────────────────────────────────────────────────┘
 
-⚡⚡⚡ PSYCHOSIS TERMINAL FULLY UNLEASHED ⚡⚡⚡
+⚡⚡⚡ TERMINAL FULLY UNLEASHED ⚡⚡⚡
 
 HermesCat@:~$ ▊
 
 ```
+
 
